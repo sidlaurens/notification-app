@@ -1,0 +1,17 @@
+{
+  "name": "Notification App",
+  "author": {
+    "name": "Sid Laurens",
+    "email": "sid.laurens@braincorp.com",
+    "url": "https://github.com/sidlaurens-bc"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "top_bar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}

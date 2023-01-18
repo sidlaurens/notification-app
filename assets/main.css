@@ -1,0 +1,24 @@
+footer {
+  font-size: 15px;
+  padding-top: 20px;
+  padding-left: 5px;
+}
+
+#content em {
+	font-size: 16px;
+	padding-top: 2px;
+}
+
+p {
+	font-size: 16px;
+	padding-top: 10px;
+  padding-left: 10px;
+  overflow-wrap: break-word;
+}
+
+p.time {
+  font-size: 14px;
+  font-style: italic;
+  color: #363;
+  padding-left: 15px;
+}
